@@ -1,0 +1,8 @@
+
+{
+  "name": "LeadGen AI - Business Discovery Suite",
+  "description": "A professional AI-powered platform for digital agencies and freelancers to discover, analyze, and approach businesses needing website development and digital transformation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
